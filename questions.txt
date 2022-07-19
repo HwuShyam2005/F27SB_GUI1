@@ -1,0 +1,12 @@
+What is your favourite colour?
+Red
+Green
+Blue
+Pink
+4
+How many Harry Potter books are there?
+5
+6
+7
+8
+3
